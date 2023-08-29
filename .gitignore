@@ -1,0 +1,4 @@
+.env
+data/drawings.xml
+bashscript.sh
+<!-- Initial commit: Set up project with index.html and .gitignore -->
