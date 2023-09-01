@@ -73,3 +73,4 @@ setInterval(fetchDrawings, 1000); // Poll every 1 second// Initialize whiteboard
 // Optimize canvas rendering performance
 // Add unit tests for whiteboard.js
 // Initialize whiteboard.js with basic canvas setup
+// Add drawing functionality to whiteboard.js
