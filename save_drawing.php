@@ -34,3 +34,4 @@ try {
 // Add metadata storage for drawings
 // Add error logging for failed saves
 // Add save_drawing.php to store coordinates in database
+// Add input validation to save_drawing.php
