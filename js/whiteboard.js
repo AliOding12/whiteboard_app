@@ -75,3 +75,4 @@ setInterval(fetchDrawings, 1000); // Poll every 1 second// Initialize whiteboard
 // Initialize whiteboard.js with basic canvas setup
 // Add drawing functionality to whiteboard.js
 // Implement XHR for sending drawing data to server
+// Add support for loading drawings from XML
