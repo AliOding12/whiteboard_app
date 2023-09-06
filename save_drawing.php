@@ -36,3 +36,4 @@ try {
 // Add save_drawing.php to store coordinates in database
 // Add input validation to save_drawing.php
 // Add batch insert support to save_drawing.php
+// Add user authentication for saving drawings
