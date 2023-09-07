@@ -78,3 +78,4 @@ setInterval(fetchDrawings, 1000); // Poll every 1 second// Initialize whiteboard
 // Add support for loading drawings from XML
 // Add undo/redo functionality to whiteboard.js
 // Implement drawing tool selection in whiteboard.js
+// Add real-time drawing sync via XHR
