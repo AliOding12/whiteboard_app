@@ -41,3 +41,4 @@ try {
 // Add pagination to XML output
 // Add get_drawings.php to generate XML from database
 // Optimize XML generation in get_drawings.php
+// Add filtering by user in get_drawings.php
