@@ -37,3 +37,4 @@ try {
 // Add input validation to save_drawing.php
 // Add batch insert support to save_drawing.php
 // Add user authentication for saving drawings
+// Optimize database queries in save_drawing.php
