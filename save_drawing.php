@@ -38,3 +38,4 @@ try {
 // Add batch insert support to save_drawing.php
 // Add user authentication for saving drawings
 // Optimize database queries in save_drawing.php
+// Add metadata storage for drawings
