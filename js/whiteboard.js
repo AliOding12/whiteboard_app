@@ -80,3 +80,4 @@ setInterval(fetchDrawings, 1000); // Poll every 1 second// Initialize whiteboard
 // Implement drawing tool selection in whiteboard.js
 // Add real-time drawing sync via XHR
 // Add support for multiple canvas layers
+// Add color picker to whiteboard.js
