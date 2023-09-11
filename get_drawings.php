@@ -43,3 +43,4 @@ try {
 // Optimize XML generation in get_drawings.php
 // Add filtering by user in get_drawings.php
 // Add caching for XML output in get_drawings.php
+// Support metadata in XML output
