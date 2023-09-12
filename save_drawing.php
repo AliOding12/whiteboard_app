@@ -39,3 +39,4 @@ try {
 // Add user authentication for saving drawings
 // Optimize database queries in save_drawing.php
 // Add metadata storage for drawings
+// Add error logging for failed saves
